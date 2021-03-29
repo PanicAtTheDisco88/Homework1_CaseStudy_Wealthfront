@@ -112,11 +112,9 @@ Wealthfront, similar to its competitors, spans multiple adjacent areas of fintec
 
 ### 10. What are the other major companies in this domain?
 
-- Standalone robo-advisors: Betterment, Stash, Ellevest, Sofi Automated Investing
-- Investment brokerages with robo-advisors: Vanguard Digital Advisor, Ally Invest, Schwab Intelligent Portfolios
-- Blackrock (Future Advisor)
-- Traditional wealth/asset management services offering robo-advisor capabilities
-- Emerging and established entrants insofar as Wealthfront offers personal finance services
+- Standalone robo-advisors: Betterment, Personal Capital, Stash, Ellevest, Sofi Automated Investing
+- Traditional wealth managers with robo-advisors: Vanguard Digital Advisor, Ally Invest, Schwab Intelligent Portfolios
+- Blackrock (Future Advisor), Goldman Sachs (Marcus)
 
 ## Results
 ### 11. What has been the business impact of this company so far?
