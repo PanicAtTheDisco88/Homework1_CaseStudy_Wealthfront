@@ -61,9 +61,9 @@ The company has also been viewed as targeting the “millennial” generation in
 
 In theory, Wealthfront’s customers could include the full range of the following who have capital to invest and financial matters to manage and would benefit from advice:
 
-- customers with less than \$ 1M  
-- customers with \\$1M to \\$5M      
-- customers with \\$5M to \\$10M    
+- customers with less than \$1M  
+- customers with \$1M to \$5M      
+- customers with \$5M to \$10M    
 - $10M+ customers  
 - endowments  
 - foundations  
